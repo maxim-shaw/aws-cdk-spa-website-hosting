@@ -1,0 +1,17 @@
+{
+    "dev": {
+        "website_bucket_name": "goldengate-website",
+        "website_bucket_id": "goldengate-website",
+        "deployment_region": "us-east-2",
+        "domain_name": "goldengate.jentico.de",
+        "origin_custom_header_parameter_name": "/prod/static-site/origin-custom-header/referer",
+        "hosted_zone_id": "Z2T0R2IL6PFX6H",
+        "hosted_zone_name": "jentico.de",
+        "tags": {
+            "resource_name": "",
+            "project": "goldengate"
+        }
+    },
+    "prod": {
+    }
+}
